@@ -10,11 +10,12 @@ This app was bootstrapped with `create-react-app`. To start the development serv
 $ yarn start
 ```
 
-### About
+## About
 
 [![Hashrocket logo](https://hashrocket.com/hashrocket_logo.svg)](https://hashrocket.com)
 
-Tilex is supported by the team at [Hashrocket, a multidisciplinary design and
-development consultancy](https://hashrocket.com). If you'd like to [work with
+This repository and accompanying blog post was put together by the team at
+[Hashrocket, a multidisciplinary design and development
+consultancy](https://hashrocket.com). If you'd like to [work with
 us](https://hashrocket.com/contact-us/hire-us) or [join our
 team](https://hashrocket.com/contact-us/jobs), don't hesitate to get in touch.
