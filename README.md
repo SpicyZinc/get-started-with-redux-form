@@ -14,7 +14,7 @@ $ yarn start
 
 [![Hashrocket logo](https://hashrocket.com/hashrocket_logo.svg)](https://hashrocket.com)
 
-This repository and accompanying blog post was put together by the team at
+This repository and accompanying blog post were put together by the team at
 [Hashrocket, a multidisciplinary design and development
 consultancy](https://hashrocket.com). If you'd like to [work with
 us](https://hashrocket.com/contact-us/hire-us) or [join our
