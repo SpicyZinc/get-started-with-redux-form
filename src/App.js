@@ -37,7 +37,7 @@ const InputField = ({
     </div>
     {touched &&
       error &&
-      <div>
+      <div className="error">
         {error}
       </div>}
   </div>;
