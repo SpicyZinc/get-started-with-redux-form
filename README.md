@@ -1,6 +1,7 @@
 # Get Started with redux-form
 
-This is the source code for the blog post, [Get Started with redux-form](), by
+This is the source code for the blog post, [Get Started with
+redux-form](https://hashrocket.com/blog/posts/get-started-with-redux-form), by
 [Josh Branchaud](https://github.com/jbranchaud). It demonstrates how to get
 started using `redux-form` in the context of a CRA app.
 
